@@ -1,0 +1,6 @@
+# Monte Carlo Volume Estimation
+shape       cone
+r           1.0
+h           2.0
+n_points    100000
+n_lines     100000

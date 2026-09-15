@@ -1,0 +1,5 @@
+# Monte Carlo Volume Estimation
+shape       shell
+r           1.0
+n_points    100000
+n_lines     100000

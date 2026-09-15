@@ -1,0 +1,7 @@
+# Monte Carlo Volume Estimation
+shape       frustum
+r           1.0
+r_top       0.5
+h           2.0
+n_points    100000
+n_lines     100000
